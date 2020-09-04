@@ -8,7 +8,7 @@ Segunda parte parcial 1 AREP
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://parcialarepcalcfachada.herokuapp.com/)
 [![CircleCI](https://circleci.com/gh/AndresMarcelo7/ServerFachadaTrigonometricCalculator.svg?style=svg)](https://circleci.com/gh/AndresMarcelo7/ServerFachadaTrigonometricCalculator)
 
-- Servidor Logico (![ Link to GitHub Repo](https://github.com/AndresMarcelo7/TrigonometricCalculatorServer)):
+- Servidor Logico ([Link to GitHub Repo](https://github.com/AndresMarcelo7/TrigonometricCalculatorServer)):
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://parcialarepcalc.herokuapp.com/)
 [![CircleCI](https://circleci.com/gh/AndresMarcelo7/TrigonometricCalculatorServer.svg?style=svg)](https://circleci.com/gh/AndresMarcelo7/TrigonometricCalculatorServer)
 
