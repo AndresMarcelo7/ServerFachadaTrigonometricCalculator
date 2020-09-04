@@ -66,3 +66,4 @@ Then the client will make 2 requests:
 - 1 to the "Server Fachada"
 - 1 to the "Server Calc"  
 Both Hosted in heroku.
+Server Fachada requests the parameter values to Server Calc, and serverCalc process the data and returns a JSON.
