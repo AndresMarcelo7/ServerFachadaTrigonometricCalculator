@@ -4,11 +4,11 @@ Andres Felipe Marcelo
 Segunda parte parcial 1 AREP
 
 ## Available Servers:
-- Servidor Fachada: 
+- Servidor Fachada (This Repo): 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://parcialarepcalcfachada.herokuapp.com/)
 [![CircleCI](https://circleci.com/gh/AndresMarcelo7/ServerFachadaTrigonometricCalculator.svg?style=svg)](https://circleci.com/gh/AndresMarcelo7/ServerFachadaTrigonometricCalculator)
 
-- Servidor Logico:
+- Servidor Logico (![ Link to GitHub Repo](https://github.com/AndresMarcelo7/TrigonometricCalculatorServer)):
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://parcialarepcalc.herokuapp.com/)
 [![CircleCI](https://circleci.com/gh/AndresMarcelo7/TrigonometricCalculatorServer.svg?style=svg)](https://circleci.com/gh/AndresMarcelo7/TrigonometricCalculatorServer)
 
